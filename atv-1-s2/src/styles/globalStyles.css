@@ -1,0 +1,17 @@
+:root {
+    --color-brand: #4c6ef5;
+    --color-grey-1:  #212529;
+    --color-grey-2:  #343a40;
+    --color-grey-vibrant:  #414c57;
+
+    --radius-default: 0.5rem;
+
+    --color-text-1:  #dee2e6;
+  
+    --title-size-1: 1.3rem;
+    --title-weight-1:600;
+    --title-weight-2:200;
+  
+    --text-size-1:  1.125rem;
+    --text-size-2:  1rem;
+}

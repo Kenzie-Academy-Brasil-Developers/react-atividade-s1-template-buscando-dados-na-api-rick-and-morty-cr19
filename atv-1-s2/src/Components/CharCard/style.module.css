@@ -1,0 +1,23 @@
+li{
+    width: 21rem;
+    height: 32rem;
+    box-shadow: 5px 5px 5px 1px rgba(0, 0, 0, 0.2);
+    background-color: #fff;
+
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+
+    padding: 2rem 0.5rem;
+
+    position: relative;
+}
+li p{
+    text-indent: 1.35rem;
+}
+
+li img{
+    align-self: center;
+    position: absolute;
+    bottom: 2rem;
+}
